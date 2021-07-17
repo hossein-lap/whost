@@ -1,6 +1,6 @@
 # whost
 
-first it's just a simple test, but I may have continue developing.
+it's just a simple test, but I may have continue developing it.
 
 **it's going to be something like**
 **[LARBS](https://larbs.xyz/)**
